@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PATTest", "PATTest.vcxproj", "{6D94FBBC-627F-49AA-9498-130CB943589A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1002", "..\1002\1002.vcxproj", "{856DEDCF-9C82-49DA-94B9-079CF63F025A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{6D94FBBC-627F-49AA-9498-130CB943589A}.Release|x64.Build.0 = Release|x64
 		{6D94FBBC-627F-49AA-9498-130CB943589A}.Release|x86.ActiveCfg = Release|Win32
 		{6D94FBBC-627F-49AA-9498-130CB943589A}.Release|x86.Build.0 = Release|Win32
+		{856DEDCF-9C82-49DA-94B9-079CF63F025A}.Debug|x64.ActiveCfg = Debug|x64
+		{856DEDCF-9C82-49DA-94B9-079CF63F025A}.Debug|x64.Build.0 = Debug|x64
+		{856DEDCF-9C82-49DA-94B9-079CF63F025A}.Debug|x86.ActiveCfg = Debug|Win32
+		{856DEDCF-9C82-49DA-94B9-079CF63F025A}.Debug|x86.Build.0 = Debug|Win32
+		{856DEDCF-9C82-49DA-94B9-079CF63F025A}.Release|x64.ActiveCfg = Release|x64
+		{856DEDCF-9C82-49DA-94B9-079CF63F025A}.Release|x64.Build.0 = Release|x64
+		{856DEDCF-9C82-49DA-94B9-079CF63F025A}.Release|x86.ActiveCfg = Release|Win32
+		{856DEDCF-9C82-49DA-94B9-079CF63F025A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
